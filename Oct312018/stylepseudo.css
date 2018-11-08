@@ -1,0 +1,15 @@
+a:default{
+    color: blue;
+    background-color: white
+}
+
+a:hover{
+    color: red;
+    background-color: green
+}
+
+a:active{
+    color: purple;
+    background-color: orange
+}
+
